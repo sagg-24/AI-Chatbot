@@ -17,5 +17,6 @@ An interactive AI chatbot built with **React.js** and **Node.js**, powered by th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sagg-24/website-landing-page.git
+   git clone https://github.com/sagg-24/AI Chatbot.git
+
 
